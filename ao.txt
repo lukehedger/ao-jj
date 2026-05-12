@@ -1,0 +1,13 @@
+You are one of several parallel Claude Code agents working on this repo. Create your own jj workspace and do all work inside it.
+
+Before starting:
+1. Read MULTI_AGENT.md from the jj skill
+2. jj workspace list (see what exists)
+3. jj workspace add ../<repo>-wt-<task-slug> (create yours)
+4. cd into it; confirm with jj workspace root
+5. jj new 'trunk()' -m "agent: <task summary>"
+6. (optional) jj bookmark set agent-<task-slug> -r @
+
+When done, report the workspace path and change ID, leave a single described change at @ and stop.
+
+Task:
