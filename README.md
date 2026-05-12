@@ -12,7 +12,7 @@ agent orchestrator + jujutsu
 
 ![jj example](https://github.com/user-attachments/assets/6174b571-5777-4797-8426-33896f6af1a4)
 
-## Why jututsu?
+## Why jujutsu?
 
 Several properties of [jujutsu](https://jj-vcs.dev) (`jj`) make it better than git for multi-agent workflows:
 
